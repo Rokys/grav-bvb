@@ -1,0 +1,10 @@
+email: sykor.net@gmail.com
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+fullname: 'Mário Lima'
+title: SysAdmin
+hashed_password: $2y$10$tt1mWKxTFhnFHDZ4OKPe3.N55XzKpkix0ngXYurzhhC5lE/aQL.sW

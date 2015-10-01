@@ -1,0 +1,27 @@
+name: BV Bombarral
+version: 0.1.0
+description: "Tema para o site do Atletismo dos BV Bombarral"
+icon: empire
+author:
+  name: Mário Lima
+  email: sykor.net@gmail.com
+  url: http://sykor.com
+homepage: 
+demo: 
+keywords: bvb, theme, core, modern, fast, responsive, html5, css3, red
+bugs: 
+license: MIT
+
+form:
+  validation: loose
+  fields:
+    dropdown.enabled:
+        type: toggle
+        label: Dropdown in navbar
+        highlight: 1
+        default: 1
+        options:
+          1: Enabled
+          0: Disabled
+        validate:
+          type: bool
